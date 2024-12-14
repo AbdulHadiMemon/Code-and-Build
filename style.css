@@ -39,7 +39,7 @@ section{
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
     ),
-    url(images/img1.jpg);
+    url(img1.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -51,7 +51,7 @@ section{
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
     ),
-    url(images/img2.jpg);
+    url(img2.jpg);
 }
 .section-3{
     background-repeat: no-repeat;
@@ -60,6 +60,6 @@ section{
         rgba(0,0,0,0.3),
         rgba(0,0,0,0.3)
     ),
-    url(images/img4.jpg);
+    url(img4.jpg);
     background-attachment: fixed;
 }
